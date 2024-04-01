@@ -11,24 +11,16 @@
             "id": "8d5d0cd3c9d9a633",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note for Lesson 2.1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "8c0919fd022cdc74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note for Lesson 2.2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -66,9 +58,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d4442b416840b0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Passphrase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note for Lesson 2.1.md",
+                "file": "Passphrase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note for Lesson 2.1.md",
+                "file": "Passphrase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note for Lesson 2.1.md"
+                "file": "Passphrase.md"
               }
             }
           }
@@ -195,13 +199,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1822a9d94e115efa",
+  "active": "8d4442b416840b0c",
   "lastOpenFiles": [
+    "Passphrase.md",
+    "Untitled",
+    "Note for Lesson 2.1.md",
     "For_Git",
     "For_Git/First note for Git.md",
     "For_Git/Second note for Git.md",
     "Lesson 2.md",
-    "Note for Lesson 2.2.md",
-    "Note for Lesson 2.1.md"
+    "Note for Lesson 2.2.md"
   ]
 }

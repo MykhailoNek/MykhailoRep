@@ -1,1 +1,1 @@
-Hello world p.2!
+New text for branch "first_branch"
