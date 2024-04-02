@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "For_Git/Second note for Git.md",
                 "file": "Lesson 2.md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -102,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "For_Git/Second note for Git.md",
                 "file": "Lesson 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -125,6 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "For_Git/Second note for Git.md"
                 "file": "Lesson 2.md"
               }
             }
@@ -148,6 +151,8 @@
   },
   "active": "5f1d24f81be5d519",
   "lastOpenFiles": [
+    "Note for Lesson 2.1.md",
+    "For_Git",
     "For_Git/First note for Git.md",
     "For_Git/Second note for Git.md",
     "Passphrase.md",
