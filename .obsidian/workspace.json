@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d5d0cd3c9d9a633",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note for Lesson 2.1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c0919fd022cdc74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note for Lesson 2.2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5f1d24f81be5d519",
             "type": "leaf",
             "state": {
@@ -42,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ebb5a3aa572a2a16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "For_Git/First note for Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21c32d5bf1d60f6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "For_Git/Second note for Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,6 +86,7 @@
               "type": "backlink",
               "state": {
                 "file": "For_Git/Second note for Git.md",
+                "file": "Lesson 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +104,7 @@
               "type": "outgoing-link",
               "state": {
                 "file": "For_Git/Second note for Git.md",
+                "file": "Lesson 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,6 +128,7 @@
               "type": "outline",
               "state": {
                 "file": "For_Git/Second note for Git.md"
+                "file": "Lesson 2.md"
               }
             }
           }
@@ -195,12 +149,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1822a9d94e115efa",
+  "active": "5f1d24f81be5d519",
   "lastOpenFiles": [
     "Note for Lesson 2.1.md",
     "For_Git",
     "For_Git/First note for Git.md",
     "For_Git/Second note for Git.md",
+    "Passphrase.md",
+    "Untitled",
+    "Note for Lesson 2.1.md",
+    "For_Git",
     "Lesson 2.md",
     "Note for Lesson 2.2.md"
   ]
