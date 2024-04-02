@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson 2.md",
+                "file": "Git шпаргалка по командам/!!!Git Commands!!!.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson 2.md",
+                "file": "Git шпаргалка по командам/!!!Git Commands!!!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson 2.md",
+                "file": "Git шпаргалка по командам/!!!Git Commands!!!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson 2.md"
+                "file": "Git шпаргалка по командам/!!!Git Commands!!!.md"
               }
             }
           }
@@ -146,15 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f1d24f81be5d519",
+  "active": "1822a9d94e115efa",
   "lastOpenFiles": [
+    "Pasted image 20240402180527.png",
+    "Lesson 2.md",
+    "Git шпаргалка по командам/!!!Git Commands!!!.md",
+    "Git шпаргалка по командам",
     "For_Git/First note for Git.md",
     "For_Git/Second note for Git.md",
     "Passphrase.md",
-    "Untitled",
     "Note for Lesson 2.1.md",
     "For_Git",
-    "Lesson 2.md",
     "Note for Lesson 2.2.md"
   ]
 }
