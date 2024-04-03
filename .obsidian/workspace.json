@@ -1,21 +1,19 @@
 {
   "main": {
-    "id": "867c7b40c13d5de0",
+    "id": "5bdf16e1db421798",
     "type": "split",
     "children": [
       {
-        "id": "7c01ea778b6d275b",
+        "id": "a9bcc0ed3e248bb0",
         "type": "tabs",
         "children": [
           {
-            "id": "5f1d24f81be5d519",
+            "id": "e8d975ed6af1dcf9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Lesson 2.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.5.12"
               }
             }
           }
@@ -25,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c18d5b07fb237067",
+    "id": "e8f4be4dfb439d1e",
     "type": "split",
     "children": [
       {
-        "id": "ce81ab27c139453f",
+        "id": "99008289e1d4649a",
         "type": "tabs",
         "children": [
           {
-            "id": "1822a9d94e115efa",
+            "id": "4b69bb412a875609",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +41,7 @@
             }
           },
           {
-            "id": "031e7de7c48faa65",
+            "id": "334e1de7fe7ad822",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +56,7 @@
             }
           },
           {
-            "id": "a4326a974058af44",
+            "id": "dea154e0da4ae6ec",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,21 +70,19 @@
     "width": 300
   },
   "right": {
-    "id": "8cf3e8a82f66aee3",
+    "id": "d613c933ca8e0210",
     "type": "split",
     "children": [
       {
-        "id": "bd8e543d934f533c",
+        "id": "32ed65337c62b0ad",
         "type": "tabs",
         "children": [
           {
-            "id": "eea4c62af3fd4420",
+            "id": "39f5de0cb42790af",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "For_Git/Second note for Git.md",
-                "file": "Lesson 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,20 +94,18 @@
             }
           },
           {
-            "id": "7ae95cb2fc2ba876",
+            "id": "31e173d04ca37a32",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "For_Git/Second note for Git.md",
-                "file": "Lesson 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ba8d3c57a2bfc1b7",
+            "id": "721566103c4e87d9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -122,14 +116,11 @@
             }
           },
           {
-            "id": "610a7d4d2c69b0b4",
+            "id": "3e378b9015b92cfa",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "For_Git/Second note for Git.md"
-                "file": "Lesson 2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,17 +140,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f1d24f81be5d519",
-  "lastOpenFiles": [
-    "Note for Lesson 2.1.md",
-    "For_Git",
-    "For_Git/First note for Git.md",
-    "For_Git/Second note for Git.md",
-    "Passphrase.md",
-    "Untitled",
-    "Note for Lesson 2.1.md",
-    "For_Git",
-    "Lesson 2.md",
-    "Note for Lesson 2.2.md"
-  ]
+  "active": "e8d975ed6af1dcf9",
+  "lastOpenFiles": []
 }
